@@ -1,0 +1,15 @@
+C:\Users\saign.DESKTOP-USF3KTJ\gnan\MoodAnalyzerProblem\MoodAnalyzerProblem\bin\Debug\net6.0\MoodAnalyzerProblem.exe
+C:\Users\saign.DESKTOP-USF3KTJ\gnan\MoodAnalyzerProblem\MoodAnalyzerProblem\bin\Debug\net6.0\MoodAnalyzerProblem.deps.json
+C:\Users\saign.DESKTOP-USF3KTJ\gnan\MoodAnalyzerProblem\MoodAnalyzerProblem\bin\Debug\net6.0\MoodAnalyzerProblem.runtimeconfig.json
+C:\Users\saign.DESKTOP-USF3KTJ\gnan\MoodAnalyzerProblem\MoodAnalyzerProblem\bin\Debug\net6.0\MoodAnalyzerProblem.dll
+C:\Users\saign.DESKTOP-USF3KTJ\gnan\MoodAnalyzerProblem\MoodAnalyzerProblem\bin\Debug\net6.0\MoodAnalyzerProblem.pdb
+C:\Users\saign.DESKTOP-USF3KTJ\gnan\MoodAnalyzerProblem\MoodAnalyzerProblem\obj\Debug\net6.0\MoodAnalyzerProblem.csproj.AssemblyReference.cache
+C:\Users\saign.DESKTOP-USF3KTJ\gnan\MoodAnalyzerProblem\MoodAnalyzerProblem\obj\Debug\net6.0\MoodAnalyzerProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saign.DESKTOP-USF3KTJ\gnan\MoodAnalyzerProblem\MoodAnalyzerProblem\obj\Debug\net6.0\MoodAnalyzerProblem.AssemblyInfoInputs.cache
+C:\Users\saign.DESKTOP-USF3KTJ\gnan\MoodAnalyzerProblem\MoodAnalyzerProblem\obj\Debug\net6.0\MoodAnalyzerProblem.AssemblyInfo.cs
+C:\Users\saign.DESKTOP-USF3KTJ\gnan\MoodAnalyzerProblem\MoodAnalyzerProblem\obj\Debug\net6.0\MoodAnalyzerProblem.csproj.CoreCompileInputs.cache
+C:\Users\saign.DESKTOP-USF3KTJ\gnan\MoodAnalyzerProblem\MoodAnalyzerProblem\obj\Debug\net6.0\MoodAnalyzerProblem.dll
+C:\Users\saign.DESKTOP-USF3KTJ\gnan\MoodAnalyzerProblem\MoodAnalyzerProblem\obj\Debug\net6.0\refint\MoodAnalyzerProblem.dll
+C:\Users\saign.DESKTOP-USF3KTJ\gnan\MoodAnalyzerProblem\MoodAnalyzerProblem\obj\Debug\net6.0\MoodAnalyzerProblem.pdb
+C:\Users\saign.DESKTOP-USF3KTJ\gnan\MoodAnalyzerProblem\MoodAnalyzerProblem\obj\Debug\net6.0\MoodAnalyzerProblem.genruntimeconfig.cache
+C:\Users\saign.DESKTOP-USF3KTJ\gnan\MoodAnalyzerProblem\MoodAnalyzerProblem\obj\Debug\net6.0\ref\MoodAnalyzerProblem.dll
