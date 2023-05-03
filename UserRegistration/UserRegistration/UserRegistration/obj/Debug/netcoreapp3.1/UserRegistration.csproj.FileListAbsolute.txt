@@ -1,0 +1,13 @@
+C:\Users\Birendra Kumar\source\repos\UserRegistration\bin\Debug\netcoreapp3.1\UserRegistration.exe
+C:\Users\Birendra Kumar\source\repos\UserRegistration\bin\Debug\netcoreapp3.1\UserRegistration.deps.json
+C:\Users\Birendra Kumar\source\repos\UserRegistration\bin\Debug\netcoreapp3.1\UserRegistration.runtimeconfig.json
+C:\Users\Birendra Kumar\source\repos\UserRegistration\bin\Debug\netcoreapp3.1\UserRegistration.runtimeconfig.dev.json
+C:\Users\Birendra Kumar\source\repos\UserRegistration\bin\Debug\netcoreapp3.1\UserRegistration.dll
+C:\Users\Birendra Kumar\source\repos\UserRegistration\bin\Debug\netcoreapp3.1\UserRegistration.pdb
+C:\Users\Birendra Kumar\source\repos\UserRegistration\obj\Debug\netcoreapp3.1\UserRegistration.csprojAssemblyReference.cache
+C:\Users\Birendra Kumar\source\repos\UserRegistration\obj\Debug\netcoreapp3.1\UserRegistration.csproj.CoreCompileInputs.cache
+C:\Users\Birendra Kumar\source\repos\UserRegistration\obj\Debug\netcoreapp3.1\UserRegistration.AssemblyInfoInputs.cache
+C:\Users\Birendra Kumar\source\repos\UserRegistration\obj\Debug\netcoreapp3.1\UserRegistration.AssemblyInfo.cs
+C:\Users\Birendra Kumar\source\repos\UserRegistration\obj\Debug\netcoreapp3.1\UserRegistration.dll
+C:\Users\Birendra Kumar\source\repos\UserRegistration\obj\Debug\netcoreapp3.1\UserRegistration.pdb
+C:\Users\Birendra Kumar\source\repos\UserRegistration\obj\Debug\netcoreapp3.1\UserRegistration.genruntimeconfig.cache
